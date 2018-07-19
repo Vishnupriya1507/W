@@ -3,7 +3,9 @@ It extracts data and presents it in a format you can easily make sense of.
 
 INSTRUCTIONS:
 1.It uses python 3.6 version.
+
 2.This is made for crawling website --https://www.rithmschool.com/blog.
+
 3.It prints out page number,datetime,links,blogs in a csv file (here blog.csv).
 
 LIBRARY USED:
